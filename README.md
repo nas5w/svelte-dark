@@ -2,7 +2,7 @@
 
 A VS Code theme inspired by the Svelte JS framework.
 
-![svelte dark](./svelte-dark.png)
+![svelte dark](https://raw.githubusercontent.com/nas5w/svelte-dark/main/svelte-dark.png)
 
 ## Install
 
