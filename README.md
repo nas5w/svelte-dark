@@ -1,4 +1,6 @@
-# Svelte Dark (Unofficial)
+# Svelte Dark
+
+A VS Code theme inspired by the Svelte JS framework.
 
 ![svelte dark](./svelte-dark.png)
 
