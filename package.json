@@ -2,7 +2,7 @@
   "name": "svelte-dark",
   "displayName": "Svelte Dark",
   "description": "A dark version of the Svelte framework color scheme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "NickScialli",
   "engines": {
     "vscode": "^1.53.0"
