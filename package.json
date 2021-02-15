@@ -2,7 +2,7 @@
   "name": "svelte-dark",
   "displayName": "Svelte Dark",
   "description": "A dark version of the Svelte framework color scheme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "theme",
     "svelte",
@@ -21,6 +21,7 @@
     "url": "https://github.com/nas5w/svelte-dark"
   },
   "icon": "icon.png",
+  "license": "MIT",
   "contributes": {
     "themes": [
       {

@@ -6,7 +6,13 @@ A VS Code theme inspired by the Svelte JS framework.
 
 ## Install
 
-Find the "Svelte Dark" theme in the VS Code Plugin Library
+1. Search for the "Svelte Dark" theme in the VS Code Extensions Library.
+2. Click "Install"
+3. Done!
+
+## Star on Github
+
+Find and star the [repo on github here](https://github.com/nas5w/svelte-dark).
 
 ## License
 
