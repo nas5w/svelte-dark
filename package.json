@@ -20,7 +20,7 @@
   "repository": {
     "url": "https://github.com/nas5w/svelte-dark"
   },
-  "icon": "https://raw.githubusercontent.com/nas5w/svelte-dark/main/icon.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
