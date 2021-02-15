@@ -2,7 +2,14 @@
   "name": "svelte-dark",
   "displayName": "Svelte Dark",
   "description": "A dark version of the Svelte framework color scheme",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "keywords": [
+    "theme",
+    "svelte",
+    "javascript",
+    "typescript",
+    "html"
+  ],
   "publisher": "NickScialli",
   "engines": {
     "vscode": "^1.53.0"
@@ -13,6 +20,7 @@
   "repository": {
     "url": "https://github.com/nas5w/svelte-dark"
   },
+  "icon": "https://raw.githubusercontent.com/nas5w/svelte-dark/main/icon.png",
   "contributes": {
     "themes": [
       {
